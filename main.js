@@ -1,4 +1,3 @@
 var a=111;
-var b="hello";
-
+var b="hello"+"B";
 console.log(a+b);
